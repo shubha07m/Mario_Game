@@ -1,4 +1,4 @@
-# Mario Game
+# Mario Game ![Mario](mario.png)
 
 A simple Mario game clone built using Pygame.
 
@@ -9,8 +9,8 @@ A simple Mario game clone built using Pygame.
 * [Technologies Used](#technologies-used)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
+* [Contributing](https://github.com/shubha07m/Mario_Game/fork)
+* [License](https://github.com/shubha07m/Mario_Game/blob/main/LICENSE)
 
 ## Game Description
 
