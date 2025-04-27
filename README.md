@@ -1,6 +1,6 @@
 # Mario Game
 
-A fun and exciting game inspired by the classic Mario games.
+A simple Mario game clone built using Pygame.
 
 ## Table of Contents
 
@@ -14,14 +14,16 @@ A fun and exciting game inspired by the classic Mario games.
 
 ## Game Description
 
-This game is a simple implementation of the classic Mario game. Players can control Mario as he navigates through levels, collecting power-ups and coins while avoiding obstacles.
+This game is a basic implementation of the classic Mario game. Players can control Mario as he navigates through levels, collecting coins and avoiding obstacles.
 
 ## Features
 
 * Classic Mario gameplay
-* Multiple levels with increasing difficulty
-* Power-ups and coins to collect
-* Obstacles and enemies to avoid
+* Coin collection system
+* Excitement effect when collecting coins
+* Sparkle effect when collecting coins
+* Score system
+* Game over screen with final score
 
 ## Technologies Used
 
