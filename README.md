@@ -1,4 +1,4 @@
-# Mario Game ![Mario](mario.png)
+# Mario Game <img src="mario.png" width="200" height="200" align="center">
 
 A simple Mario game clone built using Pygame.
 
